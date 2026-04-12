@@ -131,7 +131,7 @@
 
 I am a Computer Science student with a strong interest in **cybersecurity**, **network administration**, **system administration**, **backend engineering**, and **security compliance**. 
 
-You can find my writeups in the Social Links section.Feel free to reach out to me at [EMAIL_ADDRESS] for any queries.
+You can find my writeups in the Social Links section.Feel free to reach out to me for any queries.
 
 
 
