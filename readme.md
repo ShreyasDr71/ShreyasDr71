@@ -13,17 +13,15 @@
 <table>
   <tr>
     <td valign="middle" width="60%">
-
-
-I'm pursuing a career in cybersecurity and I am a cybersecurity enthusiast who loves breaking things as well check for compliance . In additionto this, I enjoy working with networking related components.
-
-- 🔐 Cybersecurity & CTF Player on HackTheBox
-- 🛠️ Network and System Administration
-- 📍 Based in India
-
-  </td>
+      <p>I'm pursuing a career in cybersecurity and I am a cybersecurity enthusiast who loves breaking things as well check for compliance. In addition to this, I enjoy working with networking related components.</p>
+      <ul>
+        <li>🔐 Cybersecurity &amp; CTF Player on HackTheBox</li>
+        <li>🛠️ Network and System Administration</li>
+        <li>📍 Based in India</li>
+      </ul>
+    </td>
     <td valign="middle" align="center" width="40%">
-      <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/ascii-art.png" alt="ASCII Art" width="100%"/>
+      <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/ascii-art.png" alt="ASCII Art" width="100%" />
     </td>
   </tr>
 </table>
@@ -116,8 +114,9 @@ I'm pursuing a career in cybersecurity and I am a cybersecurity enthusiast who l
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://tryhackme.com/p/voidbender">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/voidbender.png" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/TryHackMe-voidbender-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </a>
+
 
 ### LeetCode Activity
 
