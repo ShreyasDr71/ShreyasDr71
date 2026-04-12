@@ -1,18 +1,32 @@
-<!-- BANNER GIF -->
+## Hi, I am Shreyas D R 👋
+
+<!-- TYPING SVG -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/blackhole.gif" alt="Shreyas D R" width="100%"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ABF8FE&background=23428B00&center=true&vCenter=true&width=435&lines=Cybersecurity+professional;CTF+Player;Network+Administrator;System+Administrator" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-<!-- INTRO -->
-## Hi, I am Shreyas D R 👋
+<!-- INTRO + ASCII ART -->
+<table>
+  <tr>
+    <td valign="middle" width="60%">
 
-I'm a developer and cybersecurity enthusiast who loves building robust backend systems and breaking things through CTF challenges. I enjoy working with networking related components.
+
+I'm pursuing a career in cybersecurity and I am a cybersecurity enthusiast who loves breaking things as well check for compliance . In additionto this, I enjoy working with networking related components.
 
 - 🔐 Cybersecurity & CTF Player on HackTheBox
 - 🛠️ Network and System Administration
 - 📍 Based in India
+
+  </td>
+    <td valign="middle" align="center" width="40%">
+      <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/ascii-art.png" alt="ASCII Art" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -21,66 +35,66 @@ I'm a developer and cybersecurity enthusiast who loves building robust backend s
 
 <div align="center">
 
-<table border="1" cellpadding="12" cellspacing="0">
+<table border="1" cellpadding="6" cellspacing="0">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="65">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <td align="center" width="65">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+    <td align="center" width="65">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
       <br>C++
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+    <td align="center" width="65">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" />
       <br>Django
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="65" height="65" />
+    <td align="center" width="65">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="45" height="45" />
       <br>Rest API
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+    <td align="center" width="65">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
+    <td align="center" width="65">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="40" height="40" />
       <br>Nginx
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+    <td align="center" width="65">
+        <img src="https://skillicons.dev/icons?i=bash" width="32" height="32" alt="Bash" />
       <br>Bash
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    <td align="center" width="65">
+        <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+    <td align="center" width="65">
+        <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+    <td align="center" width="65">
+        <img src="https://skillicons.dev/icons?i=postgres" width="32" height="32" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+    <td align="center" width="65">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="32" height="32" alt="FastAPI" />
       <br>FastAPI
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+    <td align="center" width="65">
+        <img src="https://skillicons.dev/icons?i=flask" width="32" height="32" alt="Flask" />
       <br>Flask
     </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+    <td align="center" width="65">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32" height="32" alt="SQL" />
       <br>SQL
     </td>
   </tr>
@@ -90,42 +104,58 @@ I'm a developer and cybersecurity enthusiast who loves building robust backend s
 
 ---
 
-<!-- HTB BADGE + LEETCODE SIDE BY SIDE -->
-<table>
-  <tr>
-    <td align="center" width="50%">
+<!-- HTB + THM BADGES + LEETCODE STACKED -->
+## 🌐 My Activity on Other Platforms
 
-### Hack The Box
+<div align="center">
+
+### Hack The Box &nbsp;&nbsp;|&nbsp;&nbsp; TryHackMe
 
 <a href="https://app.hackthebox.com/profile/2453239">
   <img src="https://www.hackthebox.com/badge/image/2453239" alt="HackTheBox" />
 </a>
-
-  </td>
-    <td align="center" width="50%">
+&nbsp;&nbsp;&nbsp;
+<a href="https://tryhackme.com/p/voidbender">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/voidbender.png" alt="TryHackMe" />
+</a>
 
 ### LeetCode Activity
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/UjN6Ho9kHi?theme=dark&font=Ubuntu&ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/Kayden00?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="350" />
 
-  </td>
-  </tr>
-</table>
+</div>
 
 ---
 
 <!-- ABOUT ME -->
 ## About Me
 
-I am a Computer Science student with a strong interest in **cybersecurity**, **backend engineering**, and **competitive programming**. My work spans from crafting scalable APIs and containerised services to hunting vulnerabilities in CTF challenges and bug bounty programs.
+I am a Computer Science student with a strong interest in **cybersecurity**, **network administration**, **system administration**, **backend engineering**, and **security compliance**. 
 
-I believe in understanding systems deeply — not just how to use tools, but how they work under the hood. Whether it's reverse engineering a binary, setting up a hardened Linux server, or writing clean Django REST APIs, I approach every problem with curiosity and persistence.
+You can find my writeups in the Social Links section.Feel free to reach out to me at [EMAIL_ADDRESS] for any queries.
 
-When I'm not coding, you'll find me on HackTheBox, reading up on exploit techniques, or experimenting with new tech stacks.
+
+
+---
+
+<!-- SOCIAL LINKS -->
+## 🔗 Social Links
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/shreyas-d-r-934640292/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="28" height="28" />
+</a>
+&nbsp;
+<a href="https://voidbenderswriteups.hashnode.dev/" target="_blank">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" width="28" height="28" />
+</a>
+
+</div>
 
 ---
 
 <!-- ENDING GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/end.gif" alt="Thanks for visiting!" width="80%"/>
+  <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/end.gif" alt="Thanks for visiting!" width="80%" height="150"/>
 </div>
