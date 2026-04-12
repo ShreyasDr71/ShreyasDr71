@@ -106,7 +106,7 @@ I'm a developer and cybersecurity enthusiast who loves building robust backend s
 
 ### LeetCode Activity
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kayden?theme=dark&font=Ubuntu&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/UjN6Ho9kHi?theme=dark&font=Ubuntu&ext=heatmap)
 
   </td>
   </tr>
@@ -127,5 +127,5 @@ When I'm not coding, you'll find me on HackTheBox, reading up on exploit techniq
 
 <!-- ENDING GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/ending.gif" alt="Thanks for visiting!" width="80%"/>
+  <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/end.gif" alt="Thanks for visiting!" width="80%"/>
 </div>
