@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/blackhole.gif" alt="👋 Hi there! I'm Shreyas" title="👋 Hi there! I'm Shreyas"/>
+<div align="justify">
+
 <table>
   <tr>
     <td align="center" width="96">
