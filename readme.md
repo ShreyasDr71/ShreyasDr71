@@ -1,129 +1,131 @@
-<img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/blackhole.gif" alt="👋 Hi there! I'm Shreyas" title="👋 Hi there! I'm Shreyas"/>
-<div align="justify">
+<!-- BANNER GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/blackhole.gif" alt="Shreyas D R"/>
+</div>
 
-<table>
+---
+
+<!-- INTRO -->
+## Hi, I am Shreyas D R 👋
+
+I'm a developer and cybersecurity enthusiast who loves building robust backend systems and breaking things through CTF challenges. I enjoy working with networking related components.
+
+- 🔐 Cybersecurity & CTF Player on HackTheBox
+- 🛠️ Network and System Administration
+- 📍 Based in India
+
+---
+
+<!-- TECH STACK TABLE -->
+###  I am proficient at :
+
+<div align="center">
+
+<table border="1" cellpadding="12" cellspacing="0">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <br>C++
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
       <br>Django
     </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="65" height="65" />
       <br>Rest API
     </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
       <br>Nginx
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+      <br>SQL
     </td>
   </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
-    </td>
-  </tr>
- <tr>
- </tr>
 </table>
 
-## :triangular_flag_on_post: Hack The Box profile:
+</div>
 
+---
+
+<!-- HTB BADGE + LEETCODE SIDE BY SIDE -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+
+### Hack The Box
+
+<a href="https://app.hackthebox.com/profile/2453239">
+  <img src="https://www.hackthebox.com/badge/image/2453239" alt="HackTheBox" />
+</a>
+
+  </td>
+    <td align="center" width="50%">
+
+### LeetCode Activity
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kayden?theme=dark&font=Ubuntu&ext=heatmap)
+
+  </td>
+  </tr>
+</table>
+
+---
+
+<!-- ABOUT ME -->
+## About Me
+
+I am a Computer Science student with a strong interest in **cybersecurity**, **backend engineering**, and **competitive programming**. My work spans from crafting scalable APIs and containerised services to hunting vulnerabilities in CTF challenges and bug bounty programs.
+
+I believe in understanding systems deeply — not just how to use tools, but how they work under the hood. Whether it's reverse engineering a binary, setting up a hardened Linux server, or writing clean Django REST APIs, I approach every problem with curiosity and persistence.
+
+When I'm not coding, you'll find me on HackTheBox, reading up on exploit techniques, or experimenting with new tech stacks.
+
+---
+
+<!-- ENDING GIF -->
 <div align="center">
- <a href="https://app.hackthebox.com/profile/2453239"><img src="https://www.hackthebox.com/badge/image/2453239" alt="HackTheBox"></a>
+  <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/ending.gif" alt="Thanks for visiting!" width="80%"/>
 </div>
