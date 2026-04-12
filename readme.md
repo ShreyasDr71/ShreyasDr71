@@ -1,6 +1,6 @@
 <!-- BANNER GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/blackhole.gif" alt="Shreyas D R"/>
+  <img src="https://raw.githubusercontent.com/ShreyasDr71/ShreyasDr71/main/blackhole.gif" alt="Shreyas D R" width="100%"/>
 </div>
 
 ---
