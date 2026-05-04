@@ -131,8 +131,9 @@
 
 I am a Computer Science student with proficiency in **cybersecurity**, **network administration**, **system administration**, **backend engineering**, and **security compliance**. 
 
-I can contribute in the following roles professionaly:
+I am currently learning **GO** and **Python for Networking**.
 
+I can be of great help in the following roles:
 #### Technical:  
 
 <li> Cybersecurity - Network Security Security Architecture and Security Analyst (IAM,DMZ, Perimeter security implementation, EDR and IPSec)
