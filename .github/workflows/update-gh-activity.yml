@@ -1,7 +1,6 @@
 name: update-gh-activity
 
-on:
-  schedule:
+on:  workflow_dispatch:  schedule:
     - cron: '*/1 * * * *'  # Runs daily at midnight UTC
 
 jobs:
