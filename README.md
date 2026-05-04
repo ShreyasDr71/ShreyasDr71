@@ -157,7 +157,7 @@ You can find my writeups in the Social Links section.Feel free to reach out to m
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- Your activity will be automatically inserted here -->
+1. 🔒 Closed issue [#27](https://github.com/HackTheBox-SRMIST/wtf3-challenges/issues/27) in [HackTheBox-SRMIST/wtf3-challenges](https://github.com/HackTheBox-SRMIST/wtf3-challenges)
 <!--END_SECTION:activity-->
 
 ---
