@@ -7,13 +7,13 @@
   </a>
 </div>
 
----
+
 
 <!-- INTRO + ASCII ART -->
 <table>
   <tr>
     <td valign="middle" width="60%">
-      <p>I'm pursuing a career in cybersecurity and I am a cybersecurity enthusiast who loves breaking things as well check for compliance. In addition to this, I enjoy working with networking related components.</p>
+      <p>I'm currently pursuing a career in cybersecurity . I enjoy working with networking related components, as well as tinkering around with them.</p>
       <ul>
         <li>🔐 Cybersecurity &amp; CTF Player on HackTheBox</li>
         <li>🛠️ Network and System Administration</li>
@@ -129,7 +129,23 @@
 <!-- ABOUT ME -->
 ## About Me
 
-I am a Computer Science student with a strong interest in **cybersecurity**, **network administration**, **system administration**, **backend engineering**, and **security compliance**. 
+I am a Computer Science student with proficiency in **cybersecurity**, **network administration**, **system administration**, **backend engineering**, and **security compliance**. 
+
+I can contribute in the following roles professionaly:
+
+#### Technical:  
+
+<li> Cybersecurity - Network Security and Security Analyst (IAM, Perimeter security implementation, EDR and IPSec)
+<li>Administration - System and Network Administrator. (ServiceNow and any modern provider)
+<li>Infra Upkeep - Data server maintenance and monitoring. (DIAT,BSC) 
+
+#### Non-Technical:
+
+<li> Information Security Auditing - GRC (NIST,HIPAA,DPDPA,ISO 27001)
+<li> CSIRT - Incident Response , Risk Mitigation (Playbook/RMMM upkeep & SP 800-61)
+
+
+
 
 You can find my writeups in the Social Links section.Feel free to reach out to me for any queries.
 
@@ -155,22 +171,16 @@ You can find my writeups in the Social Links section.Feel free to reach out to m
 
 <!-- GITHUB ACTIVITY -->
 <!-- MOST USED LANGUAGES -->
-## Most Used Languages
+
 
 <div align="center">
-  <img src="https://readmeshreyas-deployment.vercel.app/api/top-langs/?username=ShreyasDr71&layout=compact" alt="Most Used Languages" />
+  <img src="https://readmeshreyas-deployment.vercel.app/api/top-langs/?username=ShreyasDr71&layout=compact&theme=tokyonight&langs_count=10&&card_width=400" alt="Most Used Languages" />
 </div>
 
----
 
-<!-- GITHUB ACTIVITY -->
-## Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#27](https://github.com/HackTheBox-SRMIST/wtf3-challenges/issues/27) in [HackTheBox-SRMIST/wtf3-challenges](https://github.com/HackTheBox-SRMIST/wtf3-challenges)
-<!--END_SECTION:activity-->
 
----
+--------------------------
 
 <!-- ENDING GIF -->
 <div align="center">
