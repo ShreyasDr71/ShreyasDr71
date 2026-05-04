@@ -138,19 +138,27 @@ You can find my writeups in the Social Links section.Feel free to reach out to m
 ---
 
 <!-- SOCIAL LINKS -->
-## 🔗 Social Links
+## Social Links
 
-<div align="left">
+<div align="left" style="display: flex; gap: 10px;">
 
 <a href="https://www.linkedin.com/in/shreyas-d-r-934640292/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="28" height="28" />
 </a>
-&nbsp;
 <a href="https://voidbenderswriteups.hashnode.dev/" target="_blank">
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" width="28" height="28" />
 </a>
 
 </div>
+
+---
+
+<!-- GITHUB ACTIVITY -->
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!-- Your activity will be automatically inserted here -->
+<!--END_SECTION:activity-->
 
 ---
 

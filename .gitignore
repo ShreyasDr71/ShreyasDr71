@@ -1,0 +1,31 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# API Keys and tokens
+secrets/
+credentials/
+.credentials
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build and dependency directories
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+
+# Local development
+.local/
+tmp/
+temp/
