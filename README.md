@@ -154,6 +154,16 @@ You can find my writeups in the Social Links section.Feel free to reach out to m
 ---
 
 <!-- GITHUB ACTIVITY -->
+<!-- MOST USED LANGUAGES -->
+## Most Used Languages
+
+<div align="center">
+  <img src="https://readmeshreyas-deployment.vercel.app/api/top-langs/?username=ShreyasDr71&layout=compact" alt="Most Used Languages" />
+</div>
+
+---
+
+<!-- GITHUB ACTIVITY -->
 ## Recent Activity
 
 <!--START_SECTION:activity-->
