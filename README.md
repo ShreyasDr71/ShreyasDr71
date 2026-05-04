@@ -135,7 +135,7 @@ I can contribute in the following roles professionaly:
 
 #### Technical:  
 
-<li> Cybersecurity - Network Security and Security Analyst (IAM, Perimeter security implementation, EDR and IPSec)
+<li> Cybersecurity - Network Security Security Architecture and Security Analyst (IAM,DMZ, Perimeter security implementation, EDR and IPSec)
 <li>Administration - System and Network Administrator. (ServiceNow and any modern provider)
 <li>Infra Upkeep - Data server maintenance and monitoring. (DIAT,BSC) 
 
